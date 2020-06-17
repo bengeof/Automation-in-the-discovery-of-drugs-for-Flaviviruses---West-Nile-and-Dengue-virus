@@ -1,0 +1,12 @@
+
+
+center_x =0.1
+center_y =0.1
+center_z =0.1
+
+size_x =100
+size_y =100
+size_z =100
+
+
+exhaustiveness = 100
